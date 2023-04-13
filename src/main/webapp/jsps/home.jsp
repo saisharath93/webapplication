@@ -9,8 +9,8 @@
 </head>
 </head>
 <body>
-<h1 align="center">cloud computing projectdemo.</h1>
-<h1 align="center">cloud computing project demo</h1>
+<h1 align="center">cloud computing .</h1>
+<h1 align="center">cloud computing class</h1>
 <hr>
 <div style="text-align: center;">
 	<span>
