@@ -9,7 +9,7 @@
 </head>
 </head>
 <body>
-<h1 align="center">cloud computing .</h1>
+<h1 align="center">cloud computing project .</h1>
 <h1 align="center">cloud computing class</h1>
 <hr>
 <div style="text-align: center;">
