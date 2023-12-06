@@ -17,8 +17,7 @@
 		<img src="images/saiimages.jpg" alt="" width="100">
 	</span>
 	<span style="font-weight: bold;">
-		saimanikanta, 
-		vineel,
+		
 		<br>
 		
 	</span>
