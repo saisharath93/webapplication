@@ -4,7 +4,7 @@
 <html>
 <head>
 <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
-<title>CLOUD COMPUTING - Home Page</title>
+<title>CLOUD  - Home Page</title>
 <link href="images/saiimages.jpg" rel="icon">
 </head>
 </head>
